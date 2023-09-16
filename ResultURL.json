@@ -1,0 +1,61 @@
+{
+  "Result": {
+    "ResultType": 0,
+    "ResultCode": 2001,
+    "ResultDesc": "The initiator information is invalid.",
+    "OriginatorConversationID": "25327-64617489-1",
+    "ConversationID": "AG_20230916_20107e54a9cb66a94b21",
+    "TransactionID": "RIG81VC3G0",
+    "ReferenceData": {
+      "ReferenceItem": {
+        "Key": "QueueTimeoutURL",
+        "Value": "https:\/\/internalsandbox.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"
+      }
+    }
+  }
+}{
+  "Result": {
+    "ResultType": 0,
+    "ResultCode": 2001,
+    "ResultDesc": "The initiator information is invalid.",
+    "OriginatorConversationID": "23199-94998541-1",
+    "ConversationID": "AG_20230916_2010761ae9de25f48629",
+    "TransactionID": "RIG11VC3NV",
+    "ReferenceData": {
+      "ReferenceItem": {
+        "Key": "QueueTimeoutURL",
+        "Value": "https:\/\/internalsandbox.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"
+      }
+    }
+  }
+}{
+  "Result": {
+    "ResultType": 0,
+    "ResultCode": 2001,
+    "ResultDesc": "The initiator information is invalid.",
+    "OriginatorConversationID": "27263-107959005-2",
+    "ConversationID": "AG_20230916_20106085cc4ddb4c07d0",
+    "TransactionID": "RIG71VC3O1",
+    "ReferenceData": {
+      "ReferenceItem": {
+        "Key": "QueueTimeoutURL",
+        "Value": "https:\/\/internalsandbox.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"
+      }
+    }
+  }
+}{
+  "Result": {
+    "ResultType": 0,
+    "ResultCode": 2001,
+    "ResultDesc": "The initiator information is invalid.",
+    "OriginatorConversationID": "92642-74351017-1",
+    "ConversationID": "AG_20230916_20103603703364f450cd",
+    "TransactionID": "RIG11VC3O5",
+    "ReferenceData": {
+      "ReferenceItem": {
+        "Key": "QueueTimeoutURL",
+        "Value": "https:\/\/internalsandbox.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"
+      }
+    }
+  }
+}

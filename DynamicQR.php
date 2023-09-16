@@ -37,3 +37,5 @@ if (isset($resp->QRCode)) {
 ?>
 
 <img class="qrcode" src="<?php echo $qrImage; ?>" alt="QR Code" />
+
+

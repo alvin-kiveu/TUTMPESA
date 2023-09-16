@@ -11,6 +11,7 @@ fwrite($log, $mpesaResponse);
 fclose($log);
 
 $data = json_decode($mpesaResponse);
+
 $TransactionType = $data->TransactionType;
 $TransID = $data->TransID;
 $TransAmount = $data->TransAmount;
